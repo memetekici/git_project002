@@ -15,6 +15,7 @@ public class FirstClass {
 		System.out.println("first commit from Memet branch");
 		
 		System.out.println("The second commit from local Memet");
+		System.out.println("This is our conflict");
 		
 	}
 	
